@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Jason Crawford</h1>
 
-<h3 align="center">Passionate about all thing Azure & Microsoft 365 #CloudFamily</h3>
+*<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
 
 <h3 align="center">Microsoft Cloud Enthusiast | Certified Microsoft 365 Expert | Certified Azure & Teams Administrator | Microsoft Security Operations Certified</h3>
 
