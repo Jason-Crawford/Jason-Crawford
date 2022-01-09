@@ -3,6 +3,11 @@
 <!--
 **jason-crawford/jason-crawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## By the way here are some of my statistics 🚀
+![jason-crawford's's github stats](https://github-readme-stats.vercel.app/api?username=jason-crawford&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jason-crawford&theme=tokyonight" alt="mystreak"/>
+![jason-crawford's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-crawford&theme=tokyonight&layout=compact)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
