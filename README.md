@@ -5,7 +5,7 @@
 <p align="Centre">
   <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150">
   <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="150">
-  <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="175">
+  <img src="https://images.credly.com/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/linkedin_thumb_microsoft365-enterprise-adminstrator-expert-600x600.png" width="175">
 </p>
 
 *<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
