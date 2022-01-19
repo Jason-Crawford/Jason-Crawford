@@ -21,3 +21,10 @@
   <h2 align="center">
    I ❤ Open Source
 </h2>
+
+
+
+<p align="center">
+  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
