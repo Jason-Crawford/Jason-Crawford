@@ -3,12 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jason-crawford&label=Profile%20views&color=0e75b6&style=flat" alt="jason-crawford" /> </p><h1 align="center">Hi 👋 I'm Jason Crawford</h1>
 
 <p align="Center">
-    <img src="https://images.credly.com/images/7727a642-47a0-4588-90ee-839208a6efef/MTA-Windows_Server_Administration_Fundamentals.png" width="145">
-  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="160">
-  <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="155">
-  <img src="https://images.credly.com/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png" width="155">
-  <img src="https://images.credly.com/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png" width="155">
-  <img src="https://images.credly.com/images/7fac65ba-b029-4884-b817-28bb047ac0f7/MTA-Security_Fundamentals.png" width="145">
+    <img src="https://images.credly.com/images/7727a642-47a0-4588-90ee-839208a6efef/MTA-Windows_Server_Administration_Fundamentals.png" width="140">
+  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="145">
+  <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="140">
+  <img src="https://images.credly.com/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png" width="140">
+  <img src="https://images.credly.com/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png" width="140">
+  <img src="https://images.credly.com/images/7fac65ba-b029-4884-b817-28bb047ac0f7/MTA-Security_Fundamentals.png" width="140">
 </p>
 
 *<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
