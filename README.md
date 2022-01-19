@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋 I'm Jason Crawford</h1>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jason-crawford&label=Profile%20views&color=0e75b6&style=flat" alt="jason-crawford" /> </p><h1 align="center">Hi 👋 I'm Jason Crawford</h1>
 
 *<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
 
 <h3 align="center">Microsoft Cloud Enthusiast | Certified Microsoft 365 Expert | Certified Azure & Teams Administrator | Microsoft Security Operations Certified</h3>
 
 <br />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jason-crawford&label=Profile%20views&color=0e75b6&style=flat" alt="jason-crawford" /> </p>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
