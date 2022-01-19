@@ -2,9 +2,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jason-crawford&label=Profile%20views&color=0e75b6&style=flat" alt="jason-crawford" /> </p><h1 align="center">Hi 👋 I'm Jason Crawford</h1>
 
-*<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
+<p align="Left">
+  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150">
+  <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="150"
+  <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="200"
+</p>
 
-<h3 align="center">Microsoft Cloud Enthusiast | Certified Microsoft 365 Expert | Certified Azure & Teams Administrator | Microsoft Security Operations Certified</h3>
+*<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,9 +26,3 @@
    I ❤ Open Source
 </h2>
 
-
-
-<p align="Left">
-  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" >
-  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="350" alt="accessibility text">
-</p>
