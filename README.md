@@ -6,7 +6,9 @@
   <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150">
   <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" width="150">
   <img src="https://images.credly.com/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png" width="150">
-  <img src="https://images.credly.com/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png" width="150">
+  <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150">
+  <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150">
+  <img src="https://images.credly.com/images/7fac65ba-b029-4884-b817-28bb047ac0f7/MTA-Security_Fundamentals.png" width="150">
 </p>
 
 *<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
