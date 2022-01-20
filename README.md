@@ -11,7 +11,7 @@
 <p align="Center">
    <img src="https://images.credly.com/images/7727a642-47a0-4588-90ee-839208a6efef/MTA-Windows_Server_Administration_Fundamentals.png" width="125">
    <img src="https://images.credly.com/images/7fac65ba-b029-4884-b817-28bb047ac0f7/MTA-Security_Fundamentals.png" width="125">
-   <img src="https://images.credly.com/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png" width="140">
+   <img src="https://images.credly.com/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png" width="155">
  </p>
 
 *<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
