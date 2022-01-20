@@ -28,7 +28,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-crawford&show_icons=true&locale=en" alt="jason-crawford" /></p> <p>
 
-  <h2 align="center">
-   I ❤ Open Source
-</h2>
-
