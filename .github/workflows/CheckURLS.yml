@@ -1,36 +1,32 @@
 name: Check URLs
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
-  build:
+  urlcheck:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: urls-checker
-      uses: urlstechie/urlchecker-action@master
+    - name: URLs-checker
+      uses: urlstechie/urlchecker-action@0.2.1
       with:
-        # A subfolder or path to navigate to in the present or cloned repository
+        # check this subfolder only
         subfolder: docs
 
+        # clone devel
+        branch: devel
         # A comma-separated list of file types to cover in the URL checks
         file_types: .md,.py,.rst
 
         # Choose whether to include file with no URLs in the prints.
         print_all: false
 
-        # The timeout seconds to provide to requests, defaults to 5 seconds
-        timeout: 5
+        # timeout in 10 seconds if url is not reached
+        timeout: 10
 
-        # How many times to retry a failed request (each is logged, defaults to 1)
+        # How many times to retry a failed request (defaults to 1)
         retry_count: 3
 
-        # A comma separated links to exclude during URL checks
-        exclude_urls: https://github.com/SuperKogito/URLs-checker/issues/1,https://github.com/SuperKogito/URLs-checker/issues/2
-
-        # A comma separated patterns to exclude during URL checks
-        exclude_patterns: https://github.com/SuperKogito/Voice-based-gender-recognition/issues
-
-        # choose if the force pass or not
-        force_pass : true
+        # Cannot check private GitHub settings
+        white_listed_patterns: https://github.com/buildtesters/buildtest/settings,https://hpckp.org/past-edition/hpckp-17/,https://hpckp.org/past-edition/hpckp-18
