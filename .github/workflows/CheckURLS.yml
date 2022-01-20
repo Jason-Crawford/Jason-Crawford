@@ -12,7 +12,7 @@ jobs:
       uses: urlstechie/urlchecker-action@0.2.1
       with:
         # check this subfolder only
-        subfolder: docs
+        subfolder: Jason-Crawford
 
         # clone devel
         branch: devel
