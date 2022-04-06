@@ -22,6 +22,9 @@
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Network_Security_Badge.png" width="140">
  </p>
 
+ <p align="Center">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/azure-fundamentals-600x600.png" width="150">
+ </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
