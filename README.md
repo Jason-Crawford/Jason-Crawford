@@ -5,21 +5,22 @@
 *<h3 align="center">Passionate about all things Azure & Microsoft 365 #CloudFamily</h3>*
 
 <p align="Center">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/azure-administrator-associate-600x600.png" width="145">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/azure-solutions-architect-expert-600x600.png" width="145">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png" width="140">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/CERT-Associate-Microsoft365-Teams-Administrator.png" width="140"> 
 </p>
     
 <p align="Center">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Windows_Server_Administration_Fundamentals.png" width="125">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/security-operations-analyst-associate-600x600.png" width="155">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Security_Fundamentals.png" width="125">  
+  
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/security-operations-analyst-associate-600x600.png" width="155"> 
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/CERT-Associate-Microsoft365-Teams-Administrator.png" width="140"> 
  </p>
  
  <p align="Center">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Windows_Server_Administration_Fundamentals.png" width="125">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Watchgaurd%20Wifi%20Badge.png" width="140">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/azure-fundamentals-600x600.png" width="150">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Network_Security_Badge.png" width="140">
+   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Security_Fundamentals.png" width="125"> 
  </p>
 
  <p align="Center">
