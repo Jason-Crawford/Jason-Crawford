@@ -10,21 +10,21 @@
 </p>
     
 <p align="Center">
-  
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/security-operations-analyst-associate-600x600.png" width="155"> 
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/CERT-Associate-Microsoft365-Teams-Administrator.png" width="140"> 
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/security-operations-analyst-associate-600x600.png" width="155"> 
  </p>
  
  <p align="Center">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Windows_Server_Administration_Fundamentals.png" width="125">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Watchgaurd%20Wifi%20Badge.png" width="140">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/security-compliance-and-identity-fundamentals.png" width="150">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/azure-fundamentals-600x600.png" width="150">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Network_Security_Badge.png" width="140">
-   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Security_Fundamentals.png" width="125"> 
  </p>
 
  <p align="Center">
-  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/security-compliance-and-identity-fundamentals.png" width="150">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/MTA-Security_Fundamentals.png" width="125">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Watchgaurd%20Wifi%20Badge.png" width="140">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/Network_Security_Badge.png" width="140">
  </p>
 
 <h3 align="center">Connect with me:</h3>
