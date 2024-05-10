@@ -7,6 +7,7 @@
 <p align="Center">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/azure-solutions-architect-expert-600x600.png" width="145">
   <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png" width="140">
+  <img src="https://github.com/Jason-Crawford/Jason-Crawford/blob/main/images/terraform_003.png" width="140">
 </p>
     
 <p align="Center">
